@@ -3,6 +3,7 @@
     "name": "Waste Warrior",
     "slug": "waste-warrior",
     "version": "1.0.0",
+    "icon":"https://res.cloudinary.com/dgyuzutq1/image/upload/v1764432362/waste_d55btu.jpg",
     "sdkVersion": "54.0.0",
     "platforms": [
       "ios",

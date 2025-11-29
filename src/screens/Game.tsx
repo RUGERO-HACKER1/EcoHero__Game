@@ -310,7 +310,7 @@ export default function Game() {
     <View style={styles.container}>
       <View style={styles.hud}>
         <View style={styles.hudTop}>
-          <Text style={styles.title}>EcoHero </Text>
+          <Text style={styles.title}>Waste Warrior</Text>
           <View style={styles.coinDisplay}>
             {/* <Text style={styles.coinIcon}>🪙</Text> */}
             <Text style={styles.coinText}>{coins} Coins</Text>

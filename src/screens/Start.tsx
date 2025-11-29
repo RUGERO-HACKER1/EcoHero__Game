@@ -36,7 +36,7 @@ export default function Start() {
 
       <View style={styles.content}>
         <View style={styles.header}>
-          <Text style={styles.title}> EcoHero </Text>
+          <Text style={styles.title}> Waste Warrior </Text>
           <Text style={styles.subtitle}>Clean the City, Save the Planet</Text>
         </View>
 
